@@ -3,12 +3,12 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Pin
     given-names: Lukas
-  - family-names: Maja
-    given-names: Neubeuer
+  - family-names: Neubauer
+    given-names: Maja
   - family-names: David
     given-names: Robertson
-  - family-names: Sofía
-    given-names: Villar
+  - family-names: Villar
+    given-names: Sofía
 title: "Clinical Trials Using Response Adaptive Randomization"
 url: https://github.com/lukaspinpin/RA-ClinicalTrials
 version: 1.0.0
