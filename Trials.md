@@ -33,5 +33,5 @@
 | 29 | tobacco cessation                       |     completed       |    III       |    BRAR       |     739                         | 2                                | Binary |         Smoking                    | Biochemically verified abstinence       |      | [DOI link 1](https://doi.org/10.1186/s13063-017-2119-9), [DOI link 2](https://doi.org/10.1001/jamainternmed.2022.7170)                                                 | 2017, 2023 |
 |30| Safety of Enoxaparin vs. Dextran-70 | completed|- | PTW| 327| 2 | Binary |  patients undergoing digestive surgery | Excessive bleeding (composite) | | [DOI link](https://doi.org/10.3109/00365529309098302) | 1993 |
 |31| Ketodex / NCT0419525 | - |- | BRAR| 410| 2 | Binary | simple upper limb fracture or dislocation that requires sedation | adequate sedation as measured using the Paediatric Sedation State Scale | | [DOI link](https://doi.org/10.3109/00365529309098302) | 2020 |
-|32| dexFEM / NCT01769820 | Completed |- | BRAR| 410| 2 | Continuous | HMB  | change from baseline in laboratory-assayed MBL | | [DOI link](https://doi.org/10.3109/00365529309098302) | 2014, 2017 |
+|32| dexFEM / NCT01769820 | Completed |- | BRAR| 107| 2 | Continuous | HMB  | change from baseline in laboratory-assayed MBL | | [DOI link](https://doi.org/10.3109/00365529309098302) | 2014, 2017 |
 
