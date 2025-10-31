@@ -1,17 +1,23 @@
-cff-version: 1.0.0
+cff-version: 1.0.2
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Pin
     given-names: Lukas
   - family-names: Neubauer
     given-names: Maja
+  - family-names: Voller
+    given-names: Corey
+  - family-names: Wilson
+    given-names: Isabelle 
+  - family-names: Baas
+    given-names: Stef
+  - family-names: Dimairo
+    given-names: Munyaradzi
   - family-names: David
     given-names: Robertson
-  - family-names: Stef 
-    given-names: Baas
   - family-names: Villar
     given-names: Sofía
 title: "Clinical Trials Using Response Adaptive Randomization"
 url: https://github.com/lukaspinpin/RA-ClinicalTrials
-version: 1.0.0
-date-released: 2025-01-19
+version: 1.1.0
+date-released: 2025-10-31
