@@ -20,6 +20,6 @@ authors:
   - family-names: Villar
     given-names: Sofía
 title: "Clinical Trials Using Response Adaptive Randomization"
-url: https://github.com/lukaspinpin/RA-ClinicalTrials
+doi: 10.5281/zenodo.17493900
 version: 1.1.1
 date-released: 2025-10-31
